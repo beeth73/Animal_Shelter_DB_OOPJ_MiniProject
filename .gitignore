@@ -1,0 +1,14 @@
+# Compiled Java class files
+/bin/
+
+# IDE-specific settings
+/.vscode/
+
+# Libraries and SDKs that should be downloaded, not stored in the repo
+/lib/
+/javafx-sdk*/
+/openjfx-*/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
